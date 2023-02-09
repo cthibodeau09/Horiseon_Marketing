@@ -11,7 +11,8 @@ body {
 /* Header */
 
 .header {
-    padding: 20px;
+    width: 100%;
+    padding: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -28,29 +29,27 @@ body {
 
 /* Navigation */
 
-.header {
-    padding-top: 15px;
-    margin-right: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+nav {
+    float: right;
+
 }
 
 .header ul {
     list-style-type: none;
-    display: block;
-    margin-top: 10px;
+    margin: 0;
+    padding: 0;
 }
 
 .header ul li {
-    display: inline;
-    margin: 0 20px;
-    float: right;
-
+    display: inline-block;
+    margin-left: 40px;
+    padding: 22px;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 20px;
 }
 
 
@@ -141,7 +140,7 @@ p {
     margin-left: 25px;
 }
 
-/* Right Side bar content (aside)  */
+/* Aside content  */
 
 /* Lead Generation */
 
