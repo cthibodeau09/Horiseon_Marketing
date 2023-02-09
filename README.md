@@ -27,3 +27,10 @@ N/A
 
 This website features a nav bar. When the links are clicked, they take you to that section of the page for more information about that topic.
 The website also features a side bar which has more information for your viewing.
+
+
+https://cthibodeau09.github.io/Challenge1/
+
+<img width="1424" alt="Screenshot 2023-02-09 at 11 43 46 AM" src="https://user-images.githubusercontent.com/123329107/217883524-26aaee07-e8ac-4f8a-8104-2c033b50b3aa.png">
+<img width="1122" alt="Screenshot 2023-02-09 at 11 44 25 AM" src="https://user-images.githubusercontent.com/123329107/217883584-b095e192-90c9-4b5a-ad0b-6dfc8a898de0.png">
+<img width="734" alt="Screenshot 2023-02-09 at 11 44 51 AM" src="https://user-images.githubusercontent.com/123329107/217883611-b4df0817-c0df-4e59-8d30-743b7c940b1a.png">
